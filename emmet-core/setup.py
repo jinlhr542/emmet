@@ -12,7 +12,7 @@ else:
 
 setup(
     name="emmet-core",
-    use_scm_version={"root": "..", "relative_to": __file__},
+    version='v0.84.2rc',
     setup_requires=["setuptools_scm"],
     description="Core Emmet Library",
     author="The Materials Project",
